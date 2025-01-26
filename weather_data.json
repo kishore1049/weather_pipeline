@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Manchester, United Kingdom",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Manchester",
+        "country": "United Kingdom",
+        "region": "Greater Manchester",
+        "lat": "53.483",
+        "lon": "-2.250",
+        "timezone_id": "Europe/London",
+        "localtime": "2025-01-26 10:26",
+        "localtime_epoch": 1737887160,
+        "utc_offset": "0.0"
+    },
+    "current": {
+        "observation_time": "10:26 AM",
+        "temperature": 4,
+        "weather_code": 116,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0002_sunny_intervals.png"
+        ],
+        "weather_descriptions": [
+            "Partly cloudy"
+        ],
+        "wind_speed": 21,
+        "wind_degree": 148,
+        "wind_dir": "SSE",
+        "pressure": 994,
+        "precip": 0,
+        "humidity": 87,
+        "cloudcover": 75,
+        "feelslike": 0,
+        "uv_index": 0,
+        "visibility": 10,
+        "is_day": "yes"
+    }
+}
